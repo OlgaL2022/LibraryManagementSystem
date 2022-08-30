@@ -18,9 +18,13 @@ __________________________________________________________________________
 Database properties:
 
 database.username=root
+
 database.password=*****
+
 database.host=jdbc:mysql://localhost
+
 database.port=3306
+
 database.dbName=Library_Management
 
 
